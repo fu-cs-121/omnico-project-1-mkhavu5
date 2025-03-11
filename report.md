@@ -1,7 +1,7 @@
 # Euphoria User Engagement Analysis Report
 
-**Author:** [Your Name]  
-**Date:** [Submission Date]
+**Author:** Vuyo Mkhatshwa  
+**Date:** Mar/11/2025
 
 ---
 
